@@ -17,19 +17,19 @@ class SectionBiased extends Component {
                         <p><strong>We have a bias for action. </strong>
                         We act fast with clear priorities. We value speed, but take time to reflect when required.<br/></p>
                         <hr/>        
-                        //2
+                        
                                 <div class="number-text">2</div><p><strong>
                                 We have a bias for action. </strong>
                                 We act fast with clear priorities. We value speed, but take time to reflect when required.<br/>
                                 </p>
-                             //2 
+                            
                         <hr/>
-                             //3
+                            
                              <div class="number-text">3</div>
                              <p><strong>We have a bias for action. </strong>
                              We act fast with clear priorities. We value speed, but take time to reflect when required.<br/>
                              </p>
-                             //3 
+                            
                          <hr/>     
                         </div>
 

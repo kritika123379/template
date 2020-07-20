@@ -21,9 +21,9 @@ class Getted extends Component {
                         <input type="submit" value="Get Started →" data-wait="Please wait..." class="button subscribe orange w-button"/>
                         <label id="w-node-8afe2cc37944-0e15684b" class="w-checkbox checkbox-field">
                         <div class="w-checkbox-input w-checkbox-input--inputType-custom checkbox">
-                        </div><input type="checkbox" id="checkbox" name="checkbox" data-name="Checkbox" required="" style={{opacity:"0",position:"absolute",zIndex:"-1"}}></input>
-                        <p class="cookies-font check">By signing up you agree to our <a href="#">Terms &amp; Condition</a>.
-                        </p><span class="checkbox-label w-form-label">Checkbox</span></label>
+                        </div><input type="checkbox" id="checkbox" name="checkbox" data-name="Checkbox" required="" style={{opacity:"0",position:"absolute",zIndex:"-1",textAlign:"center"}}></input>
+                        <p class="cookies-font check" style={{textAlign:"center"}}>By signing up you agree to our <a href="#">Terms &amp; Condition</a>.
+                        </p><span class="checkbox-label w-form-label" style={{textAlign:"center"}}>Checkbox</span></label>
                         </form>
                         </div>
                         <div class="or-line"><div class="or-block">Or</div></div>

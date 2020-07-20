@@ -31,8 +31,8 @@ export default function SpacingGrid() {
 
   return (
     <div container spacing={2}>
-    <h3  className ="title" >Notification Preview</h3>
-    <p>Choose the any type of the Notification preview you like</p>
+    <h3  className ="title" style={{textAlign:"center"}}>Notification Preview</h3>
+    <p style={{textAlign:"center"}}>Choose the any type of the Notification preview you like</p>
    
     <Grid container className={classes.root} spacing={2}>
     
@@ -83,7 +83,8 @@ export default function SpacingGrid() {
       </Grid>
       <Grid item xs={12}>
         <Paper className={classes.control}>
-          <Grid container>
+          {/*<Grid container>
+          
             <Grid item>
               <FormLabel>spacing</FormLabel>
               <RadioGroup
@@ -103,9 +104,9 @@ export default function SpacingGrid() {
                 ))}
               </RadioGroup>
             </Grid>
-          </Grid>
+          </Grid>*/}
         </Paper>
-      </Grid>
+       </Grid>
     </Grid>
     </div>
   );
